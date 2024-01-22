@@ -1,0 +1,2 @@
+def product_and_sum(1st_number, 2nd_number)
+    product = 1st_number * 2nd_number
