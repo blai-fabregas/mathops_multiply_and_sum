@@ -6,6 +6,5 @@ def product_and_sum (number1, number2):
     else: return number1 + number2
 
 #calling the function 
-multiplication_result = product_and_sum(3,5)
+multiplication_result = product_and_sum(4,5)
 print (multiplication_result) 
-
