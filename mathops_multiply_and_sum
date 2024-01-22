@@ -1,2 +1,11 @@
-def product_and_sum(1st_number, 2nd_number)
-    product = 1st_number * 2nd_number
+
+#multiplication
+def product_and_sum (number1, number2):
+    product = number1 * number2
+    if product <=1000: return product
+    else: return number1 + number2
+
+#calling the function 
+multiplication_result = product_and_sum(3,5)
+print (multiplication_result) 
+
